@@ -55,5 +55,4 @@ public static void task2() {
         }
         System.out.println(wordsMap);
     } // end of task4
-
 } //edn of main
